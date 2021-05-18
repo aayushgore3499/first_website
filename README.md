@@ -1,3 +1,1 @@
 # first_website
-
-Hello
